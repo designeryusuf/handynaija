@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Handynaija &#8211; Nigeria&#039;s Largest Hub of Service Providers</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Jun 2020 10:09:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2020/06/cropped-Favicon-1-32x32.png</url>
+	<title>Uncategorized &#8211; Handynaija &#8211; Nigeria&#039;s Largest Hub of Service Providers</title>
+	<link>./../../../</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>./../../../2020/05/02/hello-world/index.html</link>
+					<comments>./../../../2020/05/02/hello-world/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[handynaijaadmin]]></dc:creator>
+		<pubDate>Sat, 02 May 2020 17:05:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/05/02/hello-world/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Elementor and Content Egg Offer Modules</title>
+		<link>./../../../2019/06/30/set-of-coupons/index.html</link>
+		
+		<dc:creator><![CDATA[handynaijaadmin]]></dc:creator>
+		<pubDate>Sun, 30 Jun 2019 14:13:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://recart.wpsoul.com/?p=996</guid>
+
+					<description><![CDATA[All these Blocks are added via Elementor in Frontend Editing. You can add such blocks manually or import Data from Products (just type name of product which you want to import) -50% Best deal Phone Offers ★★★★★ $11.99 $22.11 Starting from purchases $200 Check this offer AWESOME166 days left This is Big Offer Block made [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="996" class="elementor elementor-996" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-2641022 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="2641022" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-ffac79e elementor-column elementor-col-100 elementor-top-column" data-id="ffac79e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2394db3 elementor-widget elementor-widget-text-editor" data-id="2394db3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>All these Blocks are added via Elementor in Frontend Editing. You can add such blocks manually or import Data from Products (just type name of product which you want to import)</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-16b1539 elementor-widget elementor-widget-wpsm-offerbox" data-id="16b1539" data-element_type="widget" data-widget_type="wpsm-offerbox.default">
+				<div class="elementor-widget-container">
+			
+    
+     
+ <div class="bigofferblock pt20 pl20 pr20  expired_coupon">
+<div class="col_wrap_two mb0">
+    <div class="product_egg">
+        <div class="image col_item mobileblockdisplay">
+            <a class="re_track_btn" href="http://google.com/">
+                <img class="lazyload" data-src="./../../../wp-content/uploads/thumbs_dir/s10-oqderqyqx807mt64a1sz8l02o2t1at1a7v6ab7jhra.jpg" width="500" alt="Best deal Phone Offers" src="./../../../wp-content/themes/rehub-theme/images/default/blank.gif" />                                    <span class="sale_a_proc">
+                        -50%                    </span>
+                                                   
+            </a>                             
+        </div>
+        <div class="product-summary col_item mobileblockdisplay">         
+            <h2 class="product_title entry-title">
+                <a class="re_track_btn" href="http://google.com/">
+                    Best deal Phone Offers 
+                </a>
+            </h2>
+                            <div class="cegg-rating">
+                    <span>&#x2605;</span><span>&#x2605;</span><span>&#x2605;</span><span>&#x2605;</span><span>&#x2605;</span>                </div>   
+                        
+
+                            <div class="deal-box-price">
+                    $11.99                                        <span class="retail-old">
+                      <strike>$22.11</strike>
+                    </span>
+                                                          
+                </div>                
+            
+                            <div class="rev_disclaimer font70 greencolor lineheight15 mb15">Starting from purchases $200</div>
+                        
+                                              
+            <div class="buttons_col">
+                <div class="priced_block clearfix">
+                    <div>
+                                                    <a class="re_track_btn btn_offer_block" href="http://google.com/">
+                                                                    Check this offer                                                            </a> 
+                                                                      
+                    </div>
+                    <div class="rehub_offer_coupon mt15 not_masked_coupon  expired_coupon" data-clipboard-text="AWESOME"><i class="fal fa-cut fa-rotate-180"></i><span class="coupon_text">AWESOME</span></div><div class="time_offer">Expired</div>                    
+                </div>                
+            </div>   
+              
+                            <div class="bigofferdesc"><p>This is Big Offer Block made via Elementor. You can have unlimited blocks in posts</p></div>                                                   
+                          
+        </div>           
+    </div> 
+</div>
+</div>  
+<div class="clearfix"></div> 		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-8454cd8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="8454cd8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-00c135a elementor-column elementor-col-100 elementor-top-column" data-id="00c135a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-523b5fa elementor-widget elementor-widget-text-editor" data-id="523b5fa" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. There are some new features in it.  Individually no single feature is a massive leap forward in the action cam industry, but collectively they represent a notable and substantial difference over the Lorem.  This section is mostly focused on these new features, while the remaining sections take a deeper dive into the core functions of the camera, as well as touch on these new features in more detail.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b631126 elementor-widget elementor-widget-text-editor" data-id="b631126" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+
+While the DOLORES has many of the same specs as the previous generation when it comes to video and photo resolutions, there are some new features in it.  Individually no single feature is a massive leap forward in the action cam industry, but collectively they represent a notable and substantial difference over the Lorem.</div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-9e59801 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="9e59801" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-eeae59c elementor-column elementor-col-50 elementor-inner-column" data-id="eeae59c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-38f2145 elementor-widget elementor-widget-image" data-id="38f2145" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="450" height="365" src="./../../../wp-content/themes/rehub-theme/images/default/blank.gif" data-src="./../../../wp-content/uploads/2019/06/djiosmo.png" class="lazyload attachment-large size-large" alt="" srcset="./../../../wp-content/uploads/2019/06/djiosmo.png 450w, ./../../../wp-content/uploads/2019/06/djiosmo-599x486.png 599w" sizes="(max-width: 450px) 100vw, 450px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-bfbf019 elementor-column elementor-col-50 elementor-inner-column" data-id="bfbf019" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-d7ff812 elementor-widget elementor-widget-text-editor" data-id="d7ff812" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+
+While the DOLORES has many of the same specs as the previous generation when it comes to video and photo resolutions, there are some new features in it.  Individually no single feature is a massive leap forward in the action cam industry, but collectively they represent a notable and substantial difference over the Lorem.</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

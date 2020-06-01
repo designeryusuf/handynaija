@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Sticky AutoContents Panel	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Jun 2020 10:09:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<item>
+		<title>
+		By: supervendor		</title>
+		<link>./../index.html#comment-3</link>
+
+		<dc:creator><![CDATA[supervendor]]></dc:creator>
+		<pubDate>Sun, 30 Jun 2019 15:55:13 +0000</pubDate>
+		<guid isPermaLink="false">http://recart.wpsoul.com/?p=1017#comment-3</guid>
+
+					<description><![CDATA[While the Hero7 Black doesn’t offer any more resolution than the Hero4 Black did, it does offer a number of substantial photo-focused features.  First, the basics though.  To get into the photo mode you’ll go ahead and tap the mode button until you see photos.  Or, just tell the GoPro to take a photo using voice commands.]]></description>
+			<content:encoded><![CDATA[<p>While the Hero7 Black doesn’t offer any more resolution than the Hero4 Black did, it does offer a number of substantial photo-focused features.  First, the basics though.  To get into the photo mode you’ll go ahead and tap the mode button until you see photos.  Or, just tell the GoPro to take a photo using voice commands.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
